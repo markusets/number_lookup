@@ -1,0 +1,2112 @@
+{
+    "201": {
+        "Location": "New Jersey",
+        "Overlay complex": "201/551",
+        "Timezone": "E"
+    },
+    "202": {
+        "Location": "Washington D.C.",
+        "Overlay complex": "202/771",
+        "Timezone": "E"
+    },
+    "203": {
+        "Location": "Connecticut",
+        "Overlay complex": "203/475",
+        "Timezone": "E"
+    },
+    "204": {
+        "Location": "Manitoba",
+        "Overlay complex": "204/431/584",
+        "Timezone": "C"
+    },
+    "205": {
+        "Location": "Alabama",
+        "Overlay complex": "205/659",
+        "Timezone": "C"
+    },
+    "206": {
+        "Location": "Washington",
+        "Overlay complex": "-",
+        "Timezone": "P"
+    },
+    "207": {
+        "Location": "Maine",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "208": {
+        "Location": "Idaho",
+        "Overlay complex": "208/986",
+        "Timezone": "M/P"
+    },
+    "209": {
+        "Location": "California",
+        "Overlay complex": "209/350",
+        "Timezone": "P"
+    },
+    "210": {
+        "Location": "Texas",
+        "Overlay complex": "210/726",
+        "Timezone": "C"
+    },
+    "212": {
+        "Location": "New York",
+        "Overlay complex": "212/646/917/332",
+        "Timezone": "E"
+    },
+    "213": {
+        "Location": "California",
+        "Overlay complex": "323/213",
+        "Timezone": "P"
+    },
+    "214": {
+        "Location": "Texas",
+        "Overlay complex": "214/972/469/945",
+        "Timezone": "C"
+    },
+    "215": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "215/267/445",
+        "Timezone": "E"
+    },
+    "216": {
+        "Location": "Ohio",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "217": {
+        "Location": "Illinois",
+        "Overlay complex": "217/447",
+        "Timezone": "C"
+    },
+    "218": {
+        "Location": "Minnesota",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "219": {
+        "Location": "Indiana",
+        "Overlay complex": "-",
+        "Timezone": "E/C"
+    },
+    "220": {
+        "Location": "Ohio",
+        "Overlay complex": "740/220",
+        "Timezone": "E"
+    },
+    "223": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "717/223",
+        "Timezone": "E"
+    },
+    "224": {
+        "Location": "Illinois",
+        "Overlay complex": "847/224",
+        "Timezone": "C"
+    },
+    "225": {
+        "Location": "Louisiana",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "226": {
+        "Location": "Ontario",
+        "Overlay complex": "519/226/548/382",
+        "Timezone": "E"
+    },
+    "227": {
+        "Location": "Maryland",
+        "Overlay complex": "301/240/227",
+        "Timezone": "E"
+    },
+    "228": {
+        "Location": "Mississippi",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "229": {
+        "Location": "Georgia",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "231": {
+        "Location": "Michigan",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "234": {
+        "Location": "Ohio",
+        "Overlay complex": "330/234",
+        "Timezone": "E"
+    },
+    "236": {
+        "Location": "British Columbia",
+        "Overlay complex": "250/778/236/672 & 604/778/236/672",
+        "Timezone": "P"
+    },
+    "239": {
+        "Location": "Florida",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "240": {
+        "Location": "Maryland",
+        "Overlay complex": "301/240/227",
+        "Timezone": "E"
+    },
+    "242": {
+        "Location": "Bahamas",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "246": {
+        "Location": "Barbados",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "248": {
+        "Location": "Michigan",
+        "Overlay complex": "248/947",
+        "Timezone": "E"
+    },
+    "249": {
+        "Location": "Ontario",
+        "Overlay complex": "705/249/683",
+        "Timezone": "E"
+    },
+    "250": {
+        "Location": "British Columbia",
+        "Overlay complex": "250/778/236/672",
+        "Timezone": "P"
+    },
+    "251": {
+        "Location": "Alabama",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "252": {
+        "Location": "North Carolina",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "253": {
+        "Location": "Washington",
+        "Overlay complex": "-",
+        "Timezone": "P"
+    },
+    "254": {
+        "Location": "Texas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "256": {
+        "Location": "Alabama",
+        "Overlay complex": "256/938",
+        "Timezone": "C"
+    },
+    "260": {
+        "Location": "Indiana",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "262": {
+        "Location": "Wisconsin",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "263": {
+        "Location": "Quebec",
+        "Overlay complex": "514/438/263",
+        "Timezone": "E"
+    },
+    "264": {
+        "Location": "Anguilla",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "267": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "215/267/445",
+        "Timezone": "E"
+    },
+    "268": {
+        "Location": "Antigua & Barbuda",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "269": {
+        "Location": "Michigan",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "270": {
+        "Location": "Kentucky",
+        "Overlay complex": "270/364",
+        "Timezone": "E/C"
+    },
+    "272": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "570/272",
+        "Timezone": "E"
+    },
+    "274": {
+        "Location": "Wisconsin",
+        "Overlay complex": "920/274",
+        "Timezone": "C"
+    },
+    "276": {
+        "Location": "Virginia",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "279": {
+        "Location": "California",
+        "Overlay complex": "916/279",
+        "Timezone": "P"
+    },
+    "281": {
+        "Location": "Texas",
+        "Overlay complex": "713/281/832/346",
+        "Timezone": "C"
+    },
+    "283": {
+        "Location": "Ohio",
+        "Overlay complex": "513/283",
+        "Timezone": "E"
+    },
+    "284": {
+        "Location": "British Virgin Islands",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "289": {
+        "Location": "Ontario",
+        "Overlay complex": "905/289/365/742",
+        "Timezone": "E"
+    },
+    "301": {
+        "Location": "Maryland",
+        "Overlay complex": "301/240/227",
+        "Timezone": "E"
+    },
+    "302": {
+        "Location": "Delaware",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "303": {
+        "Location": "Colorado",
+        "Overlay complex": "303/720/983",
+        "Timezone": "M"
+    },
+    "304": {
+        "Location": "West Virginia",
+        "Overlay complex": "304/681",
+        "Timezone": "E"
+    },
+    "305": {
+        "Location": "Florida",
+        "Overlay complex": "305/786/645",
+        "Timezone": "E"
+    },
+    "306": {
+        "Location": "Saskatchewan",
+        "Overlay complex": "306/639/474",
+        "Timezone": "CST"
+    },
+    "307": {
+        "Location": "Wyoming",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "308": {
+        "Location": "Nebraska",
+        "Overlay complex": "-",
+        "Timezone": "C/M"
+    },
+    "309": {
+        "Location": "Illinois",
+        "Overlay complex": "309/861",
+        "Timezone": "C"
+    },
+    "310": {
+        "Location": "California",
+        "Overlay complex": "310/424/840",
+        "Timezone": "P"
+    },
+    "312": {
+        "Location": "Illinois",
+        "Overlay complex": "312/872",
+        "Timezone": "C"
+    },
+    "313": {
+        "Location": "Michigan",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "314": {
+        "Location": "Missouri",
+        "Overlay complex": "314/557",
+        "Timezone": "C"
+    },
+    "315": {
+        "Location": "New York",
+        "Overlay complex": "315/680",
+        "Timezone": "E"
+    },
+    "316": {
+        "Location": "Kansas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "317": {
+        "Location": "Indiana",
+        "Overlay complex": "317/463",
+        "Timezone": "E"
+    },
+    "318": {
+        "Location": "Louisiana",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "319": {
+        "Location": "Iowa",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "320": {
+        "Location": "Minnesota",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "321": {
+        "Location": "Florida",
+        "Overlay complex": "407/321/689/656",
+        "Timezone": "E"
+    },
+    "323": {
+        "Location": "California",
+        "Overlay complex": "323/213",
+        "Timezone": "P"
+    },
+    "325": {
+        "Location": "Texas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "326": {
+        "Location": "Ohio",
+        "Overlay complex": "937/326",
+        "Timezone": "E"
+    },
+    "329": {
+        "Location": "New York",
+        "Overlay complex": "845/329",
+        "Timezone": "E"
+    },
+    "330": {
+        "Location": "Ohio",
+        "Overlay complex": "330/234",
+        "Timezone": "E"
+    },
+    "331": {
+        "Location": "Illinois",
+        "Overlay complex": "630/331",
+        "Timezone": "C"
+    },
+    "332": {
+        "Location": "New York",
+        "Overlay complex": "212/646/917/332",
+        "Timezone": "E"
+    },
+    "334": {
+        "Location": "Alabama",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "336": {
+        "Location": "North Carolina",
+        "Overlay complex": "336/743",
+        "Timezone": "E"
+    },
+    "337": {
+        "Location": "Louisiana",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "339": {
+        "Location": "Massachusetts",
+        "Overlay complex": "781/339",
+        "Timezone": "E"
+    },
+    "340": {
+        "Location": "US Virgin Islands",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "341": {
+        "Location": "California",
+        "Overlay complex": "510/341",
+        "Timezone": "P"
+    },
+    "343": {
+        "Location": "Ontario",
+        "Overlay complex": "613/343/753",
+        "Timezone": "E"
+    },
+    "345": {
+        "Location": "Cayman Islands",
+        "Overlay complex": "-",
+        "Timezone": "EST"
+    },
+    "346": {
+        "Location": "Texas",
+        "Overlay complex": "713/281/832/346",
+        "Timezone": "C"
+    },
+    "347": {
+        "Location": "New York",
+        "Overlay complex": "718/347/917/929",
+        "Timezone": "E"
+    },
+    "351": {
+        "Location": "Massachusetts",
+        "Overlay complex": "978/351",
+        "Timezone": "E"
+    },
+    "352": {
+        "Location": "Florida",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "360": {
+        "Location": "Washington",
+        "Overlay complex": "360/564",
+        "Timezone": "P"
+    },
+    "361": {
+        "Location": "Texas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "364": {
+        "Location": "Kentucky",
+        "Overlay complex": "270/364",
+        "Timezone": "E/C"
+    },
+    "365": {
+        "Location": "Ontario",
+        "Overlay complex": "905/289/365/742",
+        "Timezone": "E"
+    },
+    "380": {
+        "Location": "Ohio",
+        "Overlay complex": "380/614/220",
+        "Timezone": "E"
+    },
+    "385": {
+        "Location": "Utah",
+        "Overlay complex": "801/385",
+        "Timezone": "M"
+    },
+    "386": {
+        "Location": "Florida",
+        "Overlay complex": "386/689",
+        "Timezone": "E"
+    },
+    "401": {
+        "Location": "Rhode Island",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "402": {
+        "Location": "Nebraska",
+        "Overlay complex": "-",
+        "Timezone": "C/M"
+    },
+    "403": {
+        "Location": "Alberta",
+        "Overlay complex": "403/587/825",
+        "Timezone": "M"
+    },
+    "404": {
+        "Location": "Georgia",
+        "Overlay complex": "404/470",
+        "Timezone": "E"
+    },
+    "405": {
+        "Location": "Oklahoma",
+        "Overlay complex": "405/572",
+        "Timezone": "C"
+    },
+    "406": {
+        "Location": "Montana",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "407": {
+        "Location": "Florida",
+        "Overlay complex": "407/321/689",
+        "Timezone": "E"
+    },
+    "408": {
+        "Location": "California",
+        "Overlay complex": "408/669",
+        "Timezone": "P"
+    },
+    "409": {
+        "Location": "Texas",
+        "Overlay complex": "409/409",
+        "Timezone": "C"
+    },
+    "410": {
+        "Location": "Maryland",
+        "Overlay complex": "410/443/667",
+        "Timezone": "E"
+    },
+    "412": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "412/878",
+        "Timezone": "E"
+    },
+    "413": {
+        "Location": "Massachusetts",
+        "Overlay complex": "413/557",
+        "Timezone": "E"
+    },
+    "414": {
+        "Location": "Wisconsin",
+        "Overlay complex": "414/223",
+        "Timezone": "C"
+    },
+    "415": {
+        "Location": "California",
+        "Overlay complex": "415/628",
+        "Timezone": "P"
+    },
+    "416": {
+        "Location": "Ontario",
+        "Overlay complex": "416/647/437/365",
+        "Timezone": "E"
+    },
+    "417": {
+        "Location": "Missouri",
+        "Overlay complex": "417/326/582",
+        "Timezone": "C"
+    },
+    "418": {
+        "Location": "Quebec",
+        "Overlay complex": "418/581",
+        "Timezone": "E"
+    },
+    "419": {
+        "Location": "Ohio",
+        "Overlay complex": "419/567",
+        "Timezone": "E"
+    },
+    "423": {
+        "Location": "Tennessee",
+        "Overlay complex": "423/865/423/930",
+        "Timezone": "E"
+    },
+    "424": {
+        "Location": "California",
+        "Overlay complex": "310/424",
+        "Timezone": "P"
+    },
+    "425": {
+        "Location": "Washington",
+        "Overlay complex": "425/564",
+        "Timezone": "P"
+    },
+    "430": {
+        "Location": "Texas",
+        "Overlay complex": "430/903",
+        "Timezone": "C"
+    },
+    "431": {
+        "Location": "Manitoba",
+        "Overlay complex": "204/431/584",
+        "Timezone": "C"
+    },
+    "432": {
+        "Location": "Texas",
+        "Overlay complex": "432/325",
+        "Timezone": "C"
+    },
+    "434": {
+        "Location": "Virginia",
+        "Overlay complex": "434/826",
+        "Timezone": "E"
+    },
+    "435": {
+        "Location": "Utah",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "437": {
+        "Location": "Ontario",
+        "Overlay complex": "437/416/647/365",
+        "Timezone": "E"
+    },
+    "438": {
+        "Location": "Quebec",
+        "Overlay complex": "438/514/263",
+        "Timezone": "E"
+    },
+    "440": {
+        "Location": "Ohio",
+        "Overlay complex": "440/234",
+        "Timezone": "E"
+    },
+    "441": {
+        "Location": "Bermuda",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "442": {
+        "Location": "California",
+        "Overlay complex": "442/760",
+        "Timezone": "P"
+    },
+    "443": {
+        "Location": "Maryland",
+        "Overlay complex": "410/443/667",
+        "Timezone": "E"
+    },
+    "445": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "215/267/445",
+        "Timezone": "E"
+    },
+    "447": {
+        "Location": "Illinois",
+        "Overlay complex": "217/447",
+        "Timezone": "C"
+    },
+    "450": {
+        "Location": "Quebec",
+        "Overlay complex": "450/579",
+        "Timezone": "E"
+    },
+    "456": {
+        "Location": "Indiana",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "458": {
+        "Location": "Oregon",
+        "Overlay complex": "458/541",
+        "Timezone": "P"
+    },
+    "463": {
+        "Location": "Indiana",
+        "Overlay complex": "317/463",
+        "Timezone": "E"
+    },
+    "464": {
+        "Location": "Illinois",
+        "Overlay complex": "708/464",
+        "Timezone": "C"
+    },
+    "469": {
+        "Location": "Texas",
+        "Overlay complex": "214/972/469/945",
+        "Timezone": "C"
+    },
+    "470": {
+        "Location": "Georgia",
+        "Overlay complex": "404/470",
+        "Timezone": "E"
+    },
+    "471": {
+        "Location": "Indiana",
+        "Overlay complex": "812/930",
+        "Timezone": "E"
+    },
+    "473": {
+        "Location": "Grenada",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "475": {
+        "Location": "Connecticut",
+        "Overlay complex": "203/475",
+        "Timezone": "E"
+    },
+    "478": {
+        "Location": "Georgia",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "479": {
+        "Location": "Arkansas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "480": {
+        "Location": "Arizona",
+        "Overlay complex": "480/520/928",
+        "Timezone": "M"
+    },
+    "484": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "610/484",
+        "Timezone": "E"
+    },
+    "501": {
+        "Location": "Arkansas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "502": {
+        "Location": "Kentucky",
+        "Overlay complex": "502/364",
+        "Timezone": "E/C"
+    },
+    "503": {
+        "Location": "Oregon",
+        "Overlay complex": "503/971",
+        "Timezone": "P"
+    },
+    "504": {
+        "Location": "Louisiana",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "505": {
+        "Location": "New Mexico",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "506": {
+        "Location": "New Brunswick",
+        "Overlay complex": "506/428",
+        "Timezone": "AST"
+    },
+    "507": {
+        "Location": "Minnesota",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "508": {
+        "Location": "Massachusetts",
+        "Overlay complex": "508/774",
+        "Timezone": "E"
+    },
+    "509": {
+        "Location": "Washington",
+        "Overlay complex": "509/564",
+        "Timezone": "P"
+    },
+    "510": {
+        "Location": "California",
+        "Overlay complex": "510/341",
+        "Timezone": "P"
+    },
+    "511": {
+        "Location": "Government Information and Services",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "512": {
+        "Location": "Texas",
+        "Overlay complex": "512/737",
+        "Timezone": "C"
+    },
+    "513": {
+        "Location": "Ohio",
+        "Overlay complex": "513/283",
+        "Timezone": "E"
+    },
+    "514": {
+        "Location": "Quebec",
+        "Overlay complex": "514/438/263",
+        "Timezone": "E"
+    },
+    "515": {
+        "Location": "Iowa",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "516": {
+        "Location": "New York",
+        "Overlay complex": "516/631",
+        "Timezone": "E"
+    },
+    "517": {
+        "Location": "Michigan",
+        "Overlay complex": "517/326",
+        "Timezone": "E"
+    },
+    "518": {
+        "Location": "New York",
+        "Overlay complex": "518/838",
+        "Timezone": "E"
+    },
+    "519": {
+        "Location": "Ontario",
+        "Overlay complex": "519/226/548/382",
+        "Timezone": "E"
+    },
+    "520": {
+        "Location": "Arizona",
+        "Overlay complex": "520/480/928",
+        "Timezone": "M"
+    },
+    "530": {
+        "Location": "California",
+        "Overlay complex": "530/279",
+        "Timezone": "P"
+    },
+    "531": {
+        "Location": "Nebraska",
+        "Overlay complex": "402/531",
+        "Timezone": "C/M"
+    },
+    "534": {
+        "Location": "Wisconsin",
+        "Overlay complex": "534/715",
+        "Timezone": "C"
+    },
+    "539": {
+        "Location": "Oklahoma",
+        "Overlay complex": "918/539",
+        "Timezone": "C"
+    },
+    "540": {
+        "Location": "Virginia",
+        "Overlay complex": "540/826",
+        "Timezone": "E"
+    },
+    "541": {
+        "Location": "Oregon",
+        "Overlay complex": "458/541",
+        "Timezone": "P"
+    },
+    "548": {
+        "Location": "Ontario",
+        "Overlay complex": "519/226/548/382",
+        "Timezone": "E"
+    },
+    "551": {
+        "Location": "New Jersey",
+        "Overlay complex": "201/551",
+        "Timezone": "E"
+    },
+    "557": {
+        "Location": "Massachusetts",
+        "Overlay complex": "413/557",
+        "Timezone": "E"
+    },
+    "559": {
+        "Location": "California",
+        "Overlay complex": "559/935",
+        "Timezone": "P"
+    },
+    "561": {
+        "Location": "Florida",
+        "Overlay complex": "561/786/954",
+        "Timezone": "E"
+    },
+    "562": {
+        "Location": "California",
+        "Overlay complex": "562/310/424",
+        "Timezone": "P"
+    },
+    "563": {
+        "Location": "Iowa",
+        "Overlay complex": "563/563",
+        "Timezone": "C"
+    },
+    "564": {
+        "Location": "Washington",
+        "Overlay complex": "360/564",
+        "Timezone": "P"
+    },
+    "567": {
+        "Location": "Ohio",
+        "Overlay complex": "419/567",
+        "Timezone": "E"
+    },
+    "570": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "570/272",
+        "Timezone": "E"
+    },
+    "571": {
+        "Location": "Virginia",
+        "Overlay complex": "571/703",
+        "Timezone": "E"
+    },
+    "573": {
+        "Location": "Missouri",
+        "Overlay complex": "573/557",
+        "Timezone": "C"
+    },
+    "574": {
+        "Location": "Indiana",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "575": {
+        "Location": "New Mexico",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "579": {
+        "Location": "Quebec",
+        "Overlay complex": "450/579",
+        "Timezone": "E"
+    },
+    "580": {
+        "Location": "Oklahoma",
+        "Overlay complex": "580/534",
+        "Timezone": "C"
+    },
+    "581": {
+        "Location": "Quebec",
+        "Overlay complex": "418/581",
+        "Timezone": "E"
+    },
+    "585": {
+        "Location": "New York",
+        "Overlay complex": "585/680",
+        "Timezone": "E"
+    },
+    "586": {
+        "Location": "Michigan",
+        "Overlay complex": "586/464",
+        "Timezone": "E"
+    },
+    "587": {
+        "Location": "Alberta",
+        "Overlay complex": "403/587/825",
+        "Timezone": "M"
+    },
+    "601": {
+        "Location": "Mississippi",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "602": {
+        "Location": "Arizona",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "603": {
+        "Location": "New Hampshire",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "604": {
+        "Location": "British Columbia",
+        "Overlay complex": "250/778/236/672 & 604/778/236/672",
+        "Timezone": "P"
+    },
+    "605": {
+        "Location": "South Dakota",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "606": {
+        "Location": "Kentucky",
+        "Overlay complex": "606/859",
+        "Timezone": "E/C"
+    },
+    "607": {
+        "Location": "New York",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "608": {
+        "Location": "Wisconsin",
+        "Overlay complex": "608/608",
+        "Timezone": "C"
+    },
+    "609": {
+        "Location": "New Jersey",
+        "Overlay complex": "609/640",
+        "Timezone": "E"
+    },
+    "610": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "610/484",
+        "Timezone": "E"
+    },
+    "612": {
+        "Location": "Minnesota",
+        "Overlay complex": "612/651",
+        "Timezone": "C"
+    },
+    "613": {
+        "Location": "Ontario",
+        "Overlay complex": "613/343/753",
+        "Timezone": "E"
+    },
+    "614": {
+        "Location": "Ohio",
+        "Overlay complex": "380/614/220",
+        "Timezone": "E"
+    },
+    "615": {
+        "Location": "Tennessee",
+        "Overlay complex": "615/629",
+        "Timezone": "E"
+    },
+    "616": {
+        "Location": "Michigan",
+        "Overlay complex": "616/269",
+        "Timezone": "E"
+    },
+    "617": {
+        "Location": "Massachusetts",
+        "Overlay complex": "617/857/617/857",
+        "Timezone": "E"
+    },
+    "618": {
+        "Location": "Illinois",
+        "Overlay complex": "618/730",
+        "Timezone": "C"
+    },
+    "619": {
+        "Location": "California",
+        "Overlay complex": "619/858",
+        "Timezone": "P"
+    },
+    "620": {
+        "Location": "Kansas",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "623": {
+        "Location": "Arizona",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "626": {
+        "Location": "California",
+        "Overlay complex": "626/909",
+        "Timezone": "P"
+    },
+    "628": {
+        "Location": "California",
+        "Overlay complex": "628/415",
+        "Timezone": "P"
+    },
+    "629": {
+        "Location": "Tennessee",
+        "Overlay complex": "615/629",
+        "Timezone": "E"
+    },
+    "630": {
+        "Location": "Illinois",
+        "Overlay complex": "630/331",
+        "Timezone": "C"
+    },
+    "631": {
+        "Location": "New York",
+        "Overlay complex": "516/631",
+        "Timezone": "E"
+    },
+    "636": {
+        "Location": "Missouri",
+        "Overlay complex": "636/314",
+        "Timezone": "C"
+    },
+    "639": {
+        "Location": "Saskatchewan",
+        "Overlay complex": "306/639/474",
+        "Timezone": "CST"
+    },
+    "641": {
+        "Location": "Iowa",
+        "Overlay complex": "641/464",
+        "Timezone": "C"
+    },
+    "646": {
+        "Location": "New York",
+        "Overlay complex": "212/646/917/332",
+        "Timezone": "E"
+    },
+    "647": {
+        "Location": "Ontario",
+        "Overlay complex": "437/416/647/365",
+        "Timezone": "E"
+    },
+    "649": {
+        "Location": "Turks & Caicos Islands",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "650": {
+        "Location": "California",
+        "Overlay complex": "650/408/669",
+        "Timezone": "P"
+    },
+    "651": {
+        "Location": "Minnesota",
+        "Overlay complex": "612/651",
+        "Timezone": "C"
+    },
+    "657": {
+        "Location": "California",
+        "Overlay complex": "657/714",
+        "Timezone": "P"
+    },
+    "658": {
+        "Location": "Mississippi",
+        "Overlay complex": "-",
+        "Timezone": "C"
+    },
+    "659": {
+        "Location": "Alabama",
+        "Overlay complex": "256/938",
+        "Timezone": "C"
+    },
+    "660": {
+        "Location": "Missouri",
+        "Overlay complex": "660/975",
+        "Timezone": "C"
+    },
+    "661": {
+        "Location": "California",
+        "Overlay complex": "661/747",
+        "Timezone": "P"
+    },
+    "662": {
+        "Location": "Mississippi",
+        "Overlay complex": "662/662",
+        "Timezone": "C"
+    },
+    "664": {
+        "Location": "Montserrat",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "667": {
+        "Location": "Maryland",
+        "Overlay complex": "410/443/667",
+        "Timezone": "E"
+    },
+    "669": {
+        "Location": "California",
+        "Overlay complex": "650/408/669",
+        "Timezone": "P"
+    },
+    "670": {
+        "Location": "Northern Mariana Islands",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "671": {
+        "Location": "Guam",
+        "Overlay complex": "-",
+        "Timezone": "ChST"
+    },
+    "672": {
+        "Location": "Norfolk Island",
+        "Overlay complex": "-",
+        "Timezone": "NFT"
+    },
+    "678": {
+        "Location": "Georgia",
+        "Overlay complex": "404/470/678",
+        "Timezone": "E"
+    },
+    "680": {
+        "Location": "Palau",
+        "Overlay complex": "-",
+        "Timezone": "PWT"
+    },
+    "681": {
+        "Location": "West Virginia",
+        "Overlay complex": "304/681",
+        "Timezone": "E"
+    },
+    "682": {
+        "Location": "Texas",
+        "Overlay complex": "682/817",
+        "Timezone": "C"
+    },
+    "684": {
+        "Location": "American Samoa",
+        "Overlay complex": "-",
+        "Timezone": "WST"
+    },
+    "701": {
+        "Location": "North Dakota",
+        "Overlay complex": "-",
+        "Timezone": "C/M"
+    },
+    "702": {
+        "Location": "Nevada",
+        "Overlay complex": "-",
+        "Timezone": "P"
+    },
+    "703": {
+        "Location": "Virginia",
+        "Overlay complex": "571/703",
+        "Timezone": "E"
+    },
+    "704": {
+        "Location": "North Carolina",
+        "Overlay complex": "704/980",
+        "Timezone": "E"
+    },
+    "705": {
+        "Location": "Ontario",
+        "Overlay complex": "705/249",
+        "Timezone": "E"
+    },
+    "706": {
+        "Location": "Georgia",
+        "Overlay complex": "706/762",
+        "Timezone": "E"
+    },
+    "707": {
+        "Location": "California",
+        "Overlay complex": "707/369",
+        "Timezone": "P"
+    },
+    "708": {
+        "Location": "Illinois",
+        "Overlay complex": "708/464",
+        "Timezone": "C"
+    },
+    "709": {
+        "Location": "Newfoundland and Labrador",
+        "Overlay complex": "-",
+        "Timezone": "NST"
+    },
+    "710": {
+        "Location": "US Government",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "712": {
+        "Location": "Iowa",
+        "Overlay complex": "712/563",
+        "Timezone": "C"
+    },
+    "713": {
+        "Location": "Texas",
+        "Overlay complex": "713/281/832/346",
+        "Timezone": "C"
+    },
+    "714": {
+        "Location": "California",
+        "Overlay complex": "657/714",
+        "Timezone": "P"
+    },
+    "715": {
+        "Location": "Wisconsin",
+        "Overlay complex": "534/715",
+        "Timezone": "C"
+    },
+    "716": {
+        "Location": "New York",
+        "Overlay complex": "716/680",
+        "Timezone": "E"
+    },
+    "717": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "717/223",
+        "Timezone": "E"
+    },
+    "718": {
+        "Location": "New York",
+        "Overlay complex": "718/347/917/929",
+        "Timezone": "E"
+    },
+    "719": {
+        "Location": "Colorado",
+        "Overlay complex": "719/970",
+        "Timezone": "M"
+    },
+    "720": {
+        "Location": "Colorado",
+        "Overlay complex": "303/720/983",
+        "Timezone": "M"
+    },
+    "721": {
+        "Location": "Sint Maarten",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "724": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "724/878",
+        "Timezone": "E"
+    },
+    "725": {
+        "Location": "Nevada",
+        "Overlay complex": "-",
+        "Timezone": "P"
+    },
+    "726": {
+        "Location": "Texas",
+        "Overlay complex": "726/940",
+        "Timezone": "C"
+    },
+    "727": {
+        "Location": "Florida",
+        "Overlay complex": "727/813",
+        "Timezone": "E"
+    },
+    "731": {
+        "Location": "Tennessee",
+        "Overlay complex": "731/930",
+        "Timezone": "E"
+    },
+    "732": {
+        "Location": "New Jersey",
+        "Overlay complex": "732/848",
+        "Timezone": "E"
+    },
+    "734": {
+        "Location": "Michigan",
+        "Overlay complex": "734/947",
+        "Timezone": "E"
+    },
+    "737": {
+        "Location": "Texas",
+        "Overlay complex": "512/737",
+        "Timezone": "C"
+    },
+    "740": {
+        "Location": "Ohio",
+        "Overlay complex": "740/220",
+        "Timezone": "E"
+    },
+    "747": {
+        "Location": "California",
+        "Overlay complex": "661/747",
+        "Timezone": "P"
+    },
+    "754": {
+        "Location": "Florida",
+        "Overlay complex": "754/954",
+        "Timezone": "E"
+    },
+    "757": {
+        "Location": "Virginia",
+        "Overlay complex": "757/948",
+        "Timezone": "E"
+    },
+    "758": {
+        "Location": "Saint Lucia",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "760": {
+        "Location": "California",
+        "Overlay complex": "442/760",
+        "Timezone": "P"
+    },
+    "762": {
+        "Location": "Georgia",
+        "Overlay complex": "706/762",
+        "Timezone": "E"
+    },
+    "763": {
+        "Location": "Minnesota",
+        "Overlay complex": "763/952",
+        "Timezone": "C"
+    },
+    "764": {
+        "Location": "California",
+        "Overlay complex": "805/820",
+        "Timezone": "P"
+    },
+    "765": {
+        "Location": "Indiana",
+        "Overlay complex": "765/463",
+        "Timezone": "E"
+    },
+    "767": {
+        "Location": "Dominica",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "769": {
+        "Location": "Mississippi",
+        "Overlay complex": "769/601",
+        "Timezone": "C"
+    },
+    "770": {
+        "Location": "Georgia",
+        "Overlay complex": "770/678/470",
+        "Timezone": "E"
+    },
+    "772": {
+        "Location": "Florida",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "773": {
+        "Location": "Illinois",
+        "Overlay complex": "773/872",
+        "Timezone": "C"
+    },
+    "774": {
+        "Location": "Massachusetts",
+        "Overlay complex": "508/774",
+        "Timezone": "E"
+    },
+    "775": {
+        "Location": "Nevada",
+        "Overlay complex": "775/725",
+        "Timezone": "P"
+    },
+    "779": {
+        "Location": "Illinois",
+        "Overlay complex": "815/779",
+        "Timezone": "C"
+    },
+    "780": {
+        "Location": "Alberta",
+        "Overlay complex": "780/587/825",
+        "Timezone": "M"
+    },
+    "781": {
+        "Location": "Massachusetts",
+        "Overlay complex": "781/339",
+        "Timezone": "E"
+    },
+    "784": {
+        "Location": "Saint Vincent and the Grenadines",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "785": {
+        "Location": "Kansas",
+        "Overlay complex": "785/620",
+        "Timezone": "C"
+    },
+    "786": {
+        "Location": "Florida",
+        "Overlay complex": "561/786/954",
+        "Timezone": "E"
+    },
+    "787": {
+        "Location": "Puerto Rico",
+        "Overlay complex": "787/939",
+        "Timezone": "AST"
+    },
+    "801": {
+        "Location": "Utah",
+        "Overlay complex": "801/385",
+        "Timezone": "M"
+    },
+    "802": {
+        "Location": "Vermont",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "803": {
+        "Location": "South Carolina",
+        "Overlay complex": "803/839",
+        "Timezone": "E"
+    },
+    "804": {
+        "Location": "Virginia",
+        "Overlay complex": "804/826",
+        "Timezone": "E"
+    },
+    "805": {
+        "Location": "California",
+        "Overlay complex": "805/820",
+        "Timezone": "P"
+    },
+    "806": {
+        "Location": "Texas",
+        "Overlay complex": "806/369",
+        "Timezone": "C"
+    },
+    "807": {
+        "Location": "Ontario",
+        "Overlay complex": "-",
+        "Timezone": "CST"
+    },
+    "808": {
+        "Location": "Hawaii",
+        "Overlay complex": "-",
+        "Timezone": "HST"
+    },
+    "809": {
+        "Location": "Dominican Republic",
+        "Overlay complex": "809/829/849",
+        "Timezone": "AST"
+    },
+    "810": {
+        "Location": "Michigan",
+        "Overlay complex": "810/947",
+        "Timezone": "E"
+    },
+    "812": {
+        "Location": "Indiana",
+        "Overlay complex": "812/930",
+        "Timezone": "E"
+    },
+    "813": {
+        "Location": "Florida",
+        "Overlay complex": "727/813",
+        "Timezone": "E"
+    },
+    "814": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "814/582",
+        "Timezone": "E"
+    },
+    "815": {
+        "Location": "Illinois",
+        "Overlay complex": "815/779",
+        "Timezone": "C"
+    },
+    "816": {
+        "Location": "Missouri",
+        "Overlay complex": "816/975",
+        "Timezone": "C"
+    },
+    "817": {
+        "Location": "Texas",
+        "Overlay complex": "682/817",
+        "Timezone": "C"
+    },
+    "818": {
+        "Location": "California",
+        "Overlay complex": "818/747",
+        "Timezone": "P"
+    },
+    "819": {
+        "Location": "Quebec",
+        "Overlay complex": "819/873",
+        "Timezone": "E"
+    },
+    "828": {
+        "Location": "North Carolina",
+        "Overlay complex": "828/680",
+        "Timezone": "E"
+    },
+    "829": {
+        "Location": "Dominican Republic",
+        "Overlay complex": "809/829/849",
+        "Timezone": "AST"
+    },
+    "830": {
+        "Location": "Texas",
+        "Overlay complex": "830/726",
+        "Timezone": "C"
+    },
+    "831": {
+        "Location": "California",
+        "Overlay complex": "831/820",
+        "Timezone": "P"
+    },
+    "832": {
+        "Location": "Texas",
+        "Overlay complex": "713/281/832/346",
+        "Timezone": "C"
+    },
+    "833": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "835": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "717/223",
+        "Timezone": "E"
+    },
+    "843": {
+        "Location": "South Carolina",
+        "Overlay complex": "843/854",
+        "Timezone": "E"
+    },
+    "844": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "845": {
+        "Location": "New York",
+        "Overlay complex": "845/914",
+        "Timezone": "E"
+    },
+    "847": {
+        "Location": "Illinois",
+        "Overlay complex": "847/224",
+        "Timezone": "C"
+    },
+    "848": {
+        "Location": "New Jersey",
+        "Overlay complex": "732/848",
+        "Timezone": "E"
+    },
+    "849": {
+        "Location": "Dominican Republic",
+        "Overlay complex": "809/829/849",
+        "Timezone": "AST"
+    },
+    "850": {
+        "Location": "Florida",
+        "Overlay complex": "850/448",
+        "Timezone": "C"
+    },
+    "854": {
+        "Location": "South Carolina",
+        "Overlay complex": "843/854",
+        "Timezone": "E"
+    },
+    "855": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "856": {
+        "Location": "New Jersey",
+        "Overlay complex": "856/640",
+        "Timezone": "E"
+    },
+    "857": {
+        "Location": "Massachusetts",
+        "Overlay complex": "617/857/617/857",
+        "Timezone": "E"
+    },
+    "858": {
+        "Location": "California",
+        "Overlay complex": "619/858",
+        "Timezone": "P"
+    },
+    "859": {
+        "Location": "Kentucky",
+        "Overlay complex": "606/859",
+        "Timezone": "E/C"
+    },
+    "860": {
+        "Location": "Connecticut",
+        "Overlay complex": "860/959",
+        "Timezone": "E"
+    },
+    "862": {
+        "Location": "New Jersey",
+        "Overlay complex": "862/973",
+        "Timezone": "E"
+    },
+    "863": {
+        "Location": "Florida",
+        "Overlay complex": "863/863",
+        "Timezone": "E"
+    },
+    "864": {
+        "Location": "South Carolina",
+        "Overlay complex": "864/854",
+        "Timezone": "E"
+    },
+    "865": {
+        "Location": "Tennessee",
+        "Overlay complex": "865/564",
+        "Timezone": "E"
+    },
+    "866": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "867": {
+        "Location": "Northwest Territories and Nunavut",
+        "Overlay complex": "867/873",
+        "Timezone": "MST"
+    },
+    "868": {
+        "Location": "Trinidad and Tobago",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "869": {
+        "Location": "Saint Kitts and Nevis",
+        "Overlay complex": "-",
+        "Timezone": "AST"
+    },
+    "870": {
+        "Location": "Arkansas",
+        "Overlay complex": "870/327",
+        "Timezone": "C"
+    },
+    "872": {
+        "Location": "Illinois",
+        "Overlay complex": "773/872",
+        "Timezone": "C"
+    },
+    "873": {
+        "Location": "Quebec",
+        "Overlay complex": "819/873",
+        "Timezone": "E"
+    },
+    "876": {
+        "Location": "Jamaica",
+        "Overlay complex": "-",
+        "Timezone": "EST"
+    },
+    "878": {
+        "Location": "Pennsylvania",
+        "Overlay complex": "412/878",
+        "Timezone": "E"
+    },
+    "879": {
+        "Location": "Northwestern Ontario",
+        "Overlay complex": "807/582/879",
+        "Timezone": "CST"
+    },
+    "880": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "881": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "882": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "883": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "884": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "885": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "886": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "887": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "888": {
+        "Location": "Toll-free",
+        "Overlay complex": "800/888/877/866/855/844/833/822/880/881/882/883/884/885/886/887/888",
+        "Timezone": "Toll-free"
+    },
+    "900": {
+        "Location": "Premium Rate Services",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "901": {
+        "Location": "Tennessee",
+        "Overlay complex": "901/872",
+        "Timezone": "C"
+    },
+    "902": {
+        "Location": "Nova Scotia, Prince Edward Island, and New Brunswick",
+        "Overlay complex": "902/782",
+        "Timezone": "AST"
+    },
+    "903": {
+        "Location": "Texas",
+        "Overlay complex": "903/430",
+        "Timezone": "C"
+    },
+    "904": {
+        "Location": "Florida",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "905": {
+        "Location": "Ontario",
+        "Overlay complex": "289/365/905",
+        "Timezone": "E"
+    },
+    "906": {
+        "Location": "Upper Peninsula of Michigan",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "907": {
+        "Location": "Alaska",
+        "Overlay complex": "-",
+        "Timezone": "AKST"
+    },
+    "908": {
+        "Location": "New Jersey",
+        "Overlay complex": "908/862",
+        "Timezone": "E"
+    },
+    "909": {
+        "Location": "California",
+        "Overlay complex": "909/951",
+        "Timezone": "P"
+    },
+    "910": {
+        "Location": "North Carolina",
+        "Overlay complex": "910/336",
+        "Timezone": "E"
+    },
+    "911": {
+        "Location": "Emergency Services",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "912": {
+        "Location": "Georgia",
+        "Overlay complex": "-",
+        "Timezone": "E"
+    },
+    "913": {
+        "Location": "Kansas",
+        "Overlay complex": "913/785",
+        "Timezone": "C"
+    },
+    "914": {
+        "Location": "New York",
+        "Overlay complex": "845/914",
+        "Timezone": "E"
+    },
+    "915": {
+        "Location": "Texas",
+        "Overlay complex": "915/748",
+        "Timezone": "M"
+    },
+    "916": {
+        "Location": "California",
+        "Overlay complex": "-",
+        "Timezone": "P"
+    },
+    "917": {
+        "Location": "New York",
+        "Overlay complex": "212/646/917/332",
+        "Timezone": "E"
+    },
+    "918": {
+        "Location": "Oklahoma",
+        "Overlay complex": "918/539",
+        "Timezone": "C"
+    },
+    "919": {
+        "Location": "North Carolina",
+        "Overlay complex": "919/984",
+        "Timezone": "E"
+    },
+    "920": {
+        "Location": "Wisconsin",
+        "Overlay complex": "920/274",
+        "Timezone": "C"
+    },
+    "921": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "925": {
+        "Location": "California",
+        "Overlay complex": "925/341",
+        "Timezone": "P"
+    },
+    "928": {
+        "Location": "Arizona",
+        "Overlay complex": "-",
+        "Timezone": "M"
+    },
+    "929": {
+        "Location": "New York",
+        "Overlay complex": "718/347/917/929",
+        "Timezone": "E"
+    },
+    "930": {
+        "Location": "Indiana",
+        "Overlay complex": "812/930",
+        "Timezone": "E"
+    },
+    "931": {
+        "Location": "Tennessee",
+        "Overlay complex": "931/931",
+        "Timezone": "C"
+    },
+    "934": {
+        "Location": "New York",
+        "Overlay complex": "718/347/917/929/934",
+        "Timezone": "E"
+    },
+    "935": {
+        "Location": "California",
+        "Overlay complex": "650/408/669/408/831/820/925/341/935",
+        "Timezone": "P"
+    },
+    "936": {
+        "Location": "Texas",
+        "Overlay complex": "409/936",
+        "Timezone": "C"
+    },
+    "937": {
+        "Location": "Ohio",
+        "Overlay complex": "937/326",
+        "Timezone": "E"
+    },
+    "938": {
+        "Location": "Alabama",
+        "Overlay complex": "256/938",
+        "Timezone": "C"
+    },
+    "940": {
+        "Location": "Texas",
+        "Overlay complex": "940/726/940",
+        "Timezone": "C"
+    },
+    "941": {
+        "Location": "Florida",
+        "Overlay complex": "813/941",
+        "Timezone": "E"
+    },
+    "947": {
+        "Location": "Michigan",
+        "Overlay complex": "810/947/734/947",
+        "Timezone": "E"
+    },
+    "949": {
+        "Location": "California",
+        "Overlay complex": "949/949",
+        "Timezone": "P"
+    },
+    "951": {
+        "Location": "California",
+        "Overlay complex": "909/951",
+        "Timezone": "P"
+    },
+    "952": {
+        "Location": "Minnesota",
+        "Overlay complex": "763/952",
+        "Timezone": "C"
+    },
+    "954": {
+        "Location": "Florida",
+        "Overlay complex": "754/954",
+        "Timezone": "E"
+    },
+    "956": {
+        "Location": "Texas",
+        "Overlay complex": "956/361",
+        "Timezone": "C"
+    },
+    "959": {
+        "Location": "Connecticut",
+        "Overlay complex": "860/959",
+        "Timezone": "E"
+    },
+    "970": {
+        "Location": "Colorado",
+        "Overlay complex": "970/820",
+        "Timezone": "M"
+    },
+    "971": {
+        "Location": "Oregon",
+        "Overlay complex": "503/971",
+        "Timezone": "P"
+    },
+    "972": {
+        "Location": "Texas",
+        "Overlay complex": "972/469/214/945/830/726/430",
+        "Timezone": "C"
+    },
+    "973": {
+        "Location": "New Jersey",
+        "Overlay complex": "862/973",
+        "Timezone": "E"
+    },
+    "975": {
+        "Location": "Missouri",
+        "Overlay complex": "660/975",
+        "Timezone": "C"
+    },
+    "978": {
+        "Location": "Massachusetts",
+        "Overlay complex": "978/351",
+        "Timezone": "E"
+    },
+    "979": {
+        "Location": "Texas",
+        "Overlay complex": "979/936/409",
+        "Timezone": "C"
+    },
+    "980": {
+        "Location": "North Carolina",
+        "Overlay complex": "704/980",
+        "Timezone": "E"
+    },
+    "984": {
+        "Location": "North Carolina",
+        "Overlay complex": "919/984",
+        "Timezone": "E"
+    },
+    "985": {
+        "Location": "Louisiana",
+        "Overlay complex": "985/504/337/820",
+        "Timezone": "C"
+    },
+    "986": {
+        "Location": "Washington",
+        "Overlay complex": "-",
+        "Timezone": "P"
+    },
+    "989": {
+        "Location": "Michigan",
+        "Overlay complex": "989/947/989",
+        "Timezone": "E"
+    },
+    "992": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "993": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "994": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "995": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "996": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "997": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "998": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    },
+    "999": {
+        "Location": "Non-Geographic",
+        "Overlay complex": "-",
+        "Timezone": "Varies"
+    }
+}
